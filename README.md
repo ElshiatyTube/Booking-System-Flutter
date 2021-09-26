@@ -1,6 +1,19 @@
 # flutter_barberapp
 
-flutterbarberapp
+
+Android and IOS and Web Barber Booking Real-Time Sync System build by flutter technology
+*firebase firestore
+*firebase cloud functions
+*flutter auth UI
+*FCM
+*Stream realtime detection
+*Network Time Protocol (NTP)
+*Riverpod statemangament
+*MVVM pattern
+*Web support
+*User and Stuff version
+
+![ScreenShot](https://i.ibb.co/3kPMpPf/1db1f6f5-57ff-431a-b915-dba1b7e6ea61.jpg)
 
 ## Getting Started
 
